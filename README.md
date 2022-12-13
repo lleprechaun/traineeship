@@ -13,3 +13,8 @@
 - [Репозиторий](https://github.com/lleprechaun/GitHowTo)
 
 # Задание 1. Работа с версткой
+Ссылка на репозиторий:
+[Репозиторий](https://github.com/lleprechaun/layout)
+
+Github Pages для просмотра:
+https://lleprechaun.github.io/layout/
