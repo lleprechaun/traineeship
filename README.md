@@ -18,3 +18,10 @@
 
 Github Pages для просмотра:
 https://lleprechaun.github.io/layout/
+
+# Задание 2. Работа с версткой
+Ссылка на репозиторий:
+- [Репозиторий](https://github.com/lleprechaun/TailwindCSS)
+
+Github Pages для просмотра:
+https://lleprechaun.github.io/TailwindCSS/
