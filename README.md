@@ -25,3 +25,10 @@ https://lleprechaun.github.io/layout/
 
 Github Pages для просмотра:
 https://lleprechaun.github.io/TailwindCSS/
+
+# Задание 3. Работа с кодом
+Ссылка на репозиторий:
+[Репозиторий](https://github.com/lleprechaun/Task3Library)
+
+Github Pages для просмотра:
+https://lleprechaun.github.io/Task3Library/
