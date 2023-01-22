@@ -33,6 +33,13 @@ https://lleprechaun.github.io/TailwindCSS/
 Github Pages для просмотра:
 https://lleprechaun.github.io/Task3Library/
 
+# Задание 4. Работа с проектированием и реализацией
+Ссылка на репозиторий:
+[Репозиторий](https://github.com/lleprechaun/Task4)
+
+Github Pages для просмотра:
+https://lleprechaun.github.io/Task4/
+
 # Задание 5. Работа с ООП
 Ссылка на репозиторий:
 [Репозиторий](https://github.com/lleprechaun/Task5)
