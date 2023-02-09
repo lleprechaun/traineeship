@@ -43,3 +43,10 @@ https://lleprechaun.github.io/Task4/
 # Задание 5. Работа с ООП
 Ссылка на репозиторий:
 [Репозиторий](https://github.com/lleprechaun/Task5)
+
+# Задание 6. Работа с React JS
+Ссылка на репозиторий:
+[Репозиторий](https://github.com/lleprechaun/task6)
+
+Github Pages для просмотра:
+https://lleprechaun.github.io/task6/
